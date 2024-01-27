@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Contact-Search-Using-React/static/css/main.7ef02ab1.css",
+    "main.js": "/Contact-Search-Using-React/static/js/main.7ed1e930.js",
+    "static/js/787.6ccfa4ad.chunk.js": "/Contact-Search-Using-React/static/js/787.6ccfa4ad.chunk.js",
+    "index.html": "/Contact-Search-Using-React/index.html",
+    "main.7ef02ab1.css.map": "/Contact-Search-Using-React/static/css/main.7ef02ab1.css.map",
+    "main.7ed1e930.js.map": "/Contact-Search-Using-React/static/js/main.7ed1e930.js.map",
+    "787.6ccfa4ad.chunk.js.map": "/Contact-Search-Using-React/static/js/787.6ccfa4ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef02ab1.css",
+    "static/js/main.7ed1e930.js"
+  ]
+}
