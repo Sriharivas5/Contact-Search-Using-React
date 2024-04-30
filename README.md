@@ -5,7 +5,7 @@ Welcome to the React Contact Search application! This project allows users to se
 ## Features
 
 - **Search by Name or Number**: Users can search for contacts by entering either the name or number in separate input fields.
-- **Dynamic Rendering**: Search results are dynamically rendered based on the user input, providing real-time feedback.
+- **Dynamic Rendering**: Search results are dynamically rendered based on the user input.
 - **Contact Details**: Search results display the first name, last name, email, and phone number of matching contacts.
 - **Responsive Design**: The application is designed to be responsive, ensuring compatibility and functionality across various devices.
 
